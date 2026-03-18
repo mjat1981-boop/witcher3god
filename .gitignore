@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Expo
+.expo/
+
+# Build artifacts
+/build/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
